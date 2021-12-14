@@ -2,6 +2,7 @@
   "name": "LPS-143013-test-1",
   "version": "1.0.0",
   "description": "LPS 143013 Test 1",
+  "type": "module",
   "dependencies": {
     "@liferay/portal-agnostic": "*"
   },
@@ -19,3 +20,4 @@
     "deploy": "liferay deploy"
   }
 }
+
