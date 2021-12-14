@@ -1,5 +1,5 @@
-//import moment from '@esm-bundle/moment';
-import moment from './node_modules/@esm-bundle/moment/esm/index.js';
+import moment from '@esm-bundle/moment';
+//import moment from './node_modules/@esm-bundle/moment/esm/index.js';
 
 /**                                                                                 
  * This is the main entry point of the portlet.                                     
