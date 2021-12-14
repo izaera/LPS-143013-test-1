@@ -4,6 +4,7 @@
   "description": "LPS 143013 Test 1",
   "type": "module",
   "dependencies": {
+    "@esm-bundle/moment": "^2.29.1",
     "@liferay/portal-agnostic": "*"
   },
   "portlet": {

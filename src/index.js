@@ -1,3 +1,6 @@
+//import moment from '@esm-bundle/moment';
+import moment from './node_modules/@esm-bundle/moment/esm/index.js';
+
 /**                                                                                 
  * This is the main entry point of the portlet.                                     
  *                                                                                  
@@ -10,8 +13,14 @@
 export default function main(params) { 
 	const node = document.getElementById(params.portletElementId);
                                                                                     
-	node.innerHTML =`                                                               
+	node.innerHTML +=`                                                               
 		<div>
+			<div>
+				<span class="tag">
+					Moment:
+				</span> 
+				<span class="value">${moment().format()}</span>
+			</div>
 			<div>
 				<span class="tag">
 					${Liferay.Language.get('portlet-namespace')}:
