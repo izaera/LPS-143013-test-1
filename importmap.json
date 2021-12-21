@@ -1,0 +1,4 @@
+{
+	"@esm-bundle/moment": "./node_modules/@esm-bundle/moment/esm/index.js",
+	"sbd": "cjs:./node_modules/sbd/lib/tokenizer.js"
+}

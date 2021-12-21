@@ -261,9 +261,9 @@
     js-tokens "^4.0.0"
 
 "@babel/parser@^7.16.0", "@babel/parser@^7.16.5":
-  version "7.16.5"
-  resolved "http://localhost:4873/@babel%2fparser/-/parser-7.16.5.tgz#beb3af702e54d24796341ab9420fb329131ad658"
-  integrity sha512-+Ce7T5iPNWzfu9C1aB5tN3Lyafs5xb3Ic7vBWyZL2KXT3QSdD1dD3CvgOzPmQKoNNRt6uauc0XwNJTQtXC2/Mw==
+  version "7.16.6"
+  resolved "http://localhost:4873/@babel%2fparser/-/parser-7.16.6.tgz#8f194828193e8fa79166f34a4b4e52f3e769a314"
+  integrity sha512-Gr86ujcNuPDnNOY8mi383Hvi8IYrJVJYuf3XcuBM/Dgd+bINn/7tHqsj+tKkoreMbmGsFLsltI/JJd8fOFWGDQ==
 
 "@babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression@^7.16.2":
   version "7.16.2"
@@ -945,9 +945,9 @@
   integrity sha512-Z3UgdsiymvxbJT1r0noqkx3VKuo1DKU7VOeGIKKHeSaIvxxM9A8woyad6upKL96ZQPOxZ5dz/f0vD8ZVVUqFOg==
 
 "@liferay/js-toolkit-core@^4.0.1":
-  version "4.0.1"
-  resolved "http://localhost:4873/@liferay%2fjs-toolkit-core/-/js-toolkit-core-4.0.1.tgz#f1a53262a4dfba3ce766200724ef2d59d9083dcb"
-  integrity sha512-RfAypGQrHvsAtRrl43TnyZx4p6swk6pE2wxyXyvrCuSL2vKL37ZO3a221iR96yVFb6lTkhJuomsCk1PQFi97Ew==
+  version "4.1.0"
+  resolved "http://localhost:4873/@liferay%2fjs-toolkit-core/-/js-toolkit-core-4.1.0.tgz#7274dd0608cf79b05120445255d5d0a7273f6fa5"
+  integrity sha512-abananoB6eQF3yp6Xk7kmT0vKJD6yQ238vgO60yXfcX3ZIQf3dhUfZxt3iDbqW634NUUE4ETHa9UeQhI51J4hQ==
   dependencies:
     acorn "^6.2.1"
     chalk "^2.4.2"
@@ -974,8 +974,8 @@
 
 "@liferay/portal-base@^1.0.0":
   version "1.0.0"
-  resolved "http://localhost:4873/@liferay%2fportal-base/-/portal-base-1.0.0.tgz#a2be4809cab3680cd169d1c426999bebdf4c238f"
-  integrity sha512-wfy84vyW28XWkR2nfsoeGrxbX9+mqxAXitHo1atr5v/ebyk/2b2cL9OY6aMKjcB7RG7p/Qh0WE+00DCp+9uOlg==
+  resolved "http://localhost:4873/@liferay%2fportal-base/-/portal-base-1.0.0.tgz#817d54c1ba90d0ae2a98d67d2ed0eeff022c49c6"
+  integrity sha512-HHRAPQAr6M44v94L1VrB4P4xF+3JMCH4VbdtkoJPoo8EVXqbHtyUZhB5kwHC6WQQjVjPdm1ZzANmOwudLi3AJA==
   dependencies:
     "@babel/core" "^7.14.3"
     "@babel/preset-env" "^7.14.2"
@@ -1021,9 +1021,9 @@
     fastq "^1.6.0"
 
 "@types/eslint-scope@^3.7.0":
-  version "3.7.1"
-  resolved "http://localhost:4873/@types%2feslint-scope/-/eslint-scope-3.7.1.tgz#8dc390a7b4f9dd9f1284629efce982e41612116e"
-  integrity sha512-SCFeogqiptms4Fg29WpOTk5nHIzfpKCemSN63ksBQYKTcXoJEmJagV+DhVmbapZzY4/5YaOV1nZwrsU79fFm1g==
+  version "3.7.2"
+  resolved "http://localhost:4873/@types%2feslint-scope/-/eslint-scope-3.7.2.tgz#11e96a868c67acf65bf6f11d10bb89ea71d5e473"
+  integrity sha512-TzgYCWoPiTeRg6RQYgtuW7iODtVoKu3RVL72k3WohqhjfaOLK5Mg2T4Tg1o2bSfu0vPkoI48wdQFv5b/Xe04wQ==
   dependencies:
     "@types/eslint" "*"
     "@types/estree" "*"
@@ -1060,9 +1060,9 @@
   integrity sha512-Klz949h02Gz2uZCMGwDUSDS1YBlTdDDgbWHi+81l29tQALUtvz4rAYi5uoVhE5Lagoq6DeqAUlbrHvW/mXDgdQ==
 
 "@types/node@*":
-  version "16.11.12"
-  resolved "http://localhost:4873/@types%2fnode/-/node-16.11.12.tgz#ac7fb693ac587ee182c3780c26eb65546a1a3c10"
-  integrity sha512-+2Iggwg7PxoO5Kyhvsq9VarmPbIelXP070HMImEpbtGCoyWNINQj4wzjbQCXzdHTRXnqufutJb5KAURZANNBAw==
+  version "17.0.1"
+  resolved "http://localhost:4873/@types%2fnode/-/node-17.0.1.tgz#88d501e84b6185f6489ecee4ba9e8fcec7f29bb2"
+  integrity sha512-NXKvBVUzIbs6ylBwmOwHFkZS2EXCcjnqr8ZCRNaXBkHAf+3mn/rPcJxwrzuc6movh8fxQAsUUfYklJ/EG+hZqQ==
 
 "@webassemblyjs/ast@1.11.1":
   version "1.11.1"
@@ -1343,20 +1343,20 @@ babel-messages@^6.23.0:
   dependencies:
     babel-runtime "^6.22.0"
 
-babel-plugin-add-module-metadata@2.28.0:
-  version "2.28.0"
-  resolved "http://localhost:4873/babel-plugin-add-module-metadata/-/babel-plugin-add-module-metadata-2.28.0.tgz#a30a0d06a7af496551275622e75dd39fa9413134"
-  integrity sha512-Vzsrv7RCklPS+jsN9gY+NwnZmgvhjpaWWWeyGE5WNV7gHVclo+UEMQ68lTuYVY4++wzP2lDFDbkNJlFI1DP3ig==
+babel-plugin-add-module-metadata@2.28.1:
+  version "2.28.1"
+  resolved "http://localhost:4873/babel-plugin-add-module-metadata/-/babel-plugin-add-module-metadata-2.28.1.tgz#182ef8c3737add5a52a30b3d5d902667633b8804"
+  integrity sha512-QbPtjXvnqMkQPlToo5cpR3QEiU5fbebHIEiXrqEvhcK35g8HctexH87aR3HgH4T7J6tI1A8Xnc8z3kd9iojDMA==
   dependencies:
-    liferay-npm-build-tools-common "2.28.0"
+    liferay-npm-build-tools-common "2.28.1"
     read-json-sync "^2.0.1"
 
-babel-plugin-alias-modules@2.28.0:
-  version "2.28.0"
-  resolved "http://localhost:4873/babel-plugin-alias-modules/-/babel-plugin-alias-modules-2.28.0.tgz#d0cdfe18502ea0180f7b33739b78adccc5c52c66"
-  integrity sha512-I0ILm8LwIhQjU+0E2K0PiM8bhYRsiB+8WAS0qxxR9i2rZkwZbyyJDbzQ43DJi3GimRZJwLn1j+jK3d5HK690sw==
+babel-plugin-alias-modules@2.28.1:
+  version "2.28.1"
+  resolved "http://localhost:4873/babel-plugin-alias-modules/-/babel-plugin-alias-modules-2.28.1.tgz#bdafffb04da73a8074331ab471f99068e121b564"
+  integrity sha512-1/5+cJyuUr5ZzID95b4LUegXKmowm/HRLhqPZwzxYEsHTR7yGfPNmXZiZxNksHE7GDRWJKQ9g4nywLACVQAdgA==
   dependencies:
-    liferay-npm-build-tools-common "2.28.0"
+    liferay-npm-build-tools-common "2.28.1"
 
 babel-plugin-dynamic-import-node@^2.3.3:
   version "2.3.3"
@@ -1375,33 +1375,33 @@ babel-plugin-minify-dead-code-elimination@0.5.1:
     babel-helper-remove-or-void "^0.4.3"
     lodash "^4.17.11"
 
-babel-plugin-name-amd-modules@2.28.0:
-  version "2.28.0"
-  resolved "http://localhost:4873/babel-plugin-name-amd-modules/-/babel-plugin-name-amd-modules-2.28.0.tgz#5c167e43f2a106dd1fdb414cad909506f85a39a3"
-  integrity sha512-YUkGhBrVnWN1fARtBzn1vhcnfd9P4jUn2HgsEUtHldCq1N8Mmaegt1aTaAmdL1bedXgjD5J5QHqOHYcRWFhugg==
+babel-plugin-name-amd-modules@2.28.1:
+  version "2.28.1"
+  resolved "http://localhost:4873/babel-plugin-name-amd-modules/-/babel-plugin-name-amd-modules-2.28.1.tgz#82932c16165ba51601571f109f838c76f936f7f4"
+  integrity sha512-i2LSyNPbR3v60vGj8ivlJWut8sc/M5kLUw30pWFkw+aMvkJUhn5SA+XkkDPoz3pzFnY07WUdYaFV8rWOvUmvhg==
   dependencies:
-    liferay-npm-build-tools-common "2.28.0"
+    liferay-npm-build-tools-common "2.28.1"
 
-babel-plugin-namespace-amd-define@2.28.0:
-  version "2.28.0"
-  resolved "http://localhost:4873/babel-plugin-namespace-amd-define/-/babel-plugin-namespace-amd-define-2.28.0.tgz#cbafd7c54bb22303372729039c893728a4994081"
-  integrity sha512-Vrmu7IkLSDvLrciGAzhftj4xVVfrLpDIhB4yFY/TswCJpbkXXtlJuD/0Pv4jwVorZXtwx18WENjF/swkt0lPMQ==
+babel-plugin-namespace-amd-define@2.28.1:
+  version "2.28.1"
+  resolved "http://localhost:4873/babel-plugin-namespace-amd-define/-/babel-plugin-namespace-amd-define-2.28.1.tgz#ade59aafc0cdd619c5c48ed3c89f5cc38fed4dfb"
+  integrity sha512-pnomkv+nkpawze5M8nKj/SX0OQ10Fv3KQkkqVqblID/v+3tS+CQRTFeR49aWjAHLUBViyrCBBoh9jyF1WM8igw==
   dependencies:
-    liferay-npm-build-tools-common "2.28.0"
+    liferay-npm-build-tools-common "2.28.1"
 
-babel-plugin-namespace-modules@2.28.0:
-  version "2.28.0"
-  resolved "http://localhost:4873/babel-plugin-namespace-modules/-/babel-plugin-namespace-modules-2.28.0.tgz#aa46503414deeb675aeee3ba6a2ed579a3fa261b"
-  integrity sha512-2YdbN9ivl489UOR6Qrwdw1AeaUKOUzE4Q91OxBR9FangDt9Jmt4p9DsGCMOwJa6EGZvonXQdUnXsmeq04K9cpg==
+babel-plugin-namespace-modules@2.28.1:
+  version "2.28.1"
+  resolved "http://localhost:4873/babel-plugin-namespace-modules/-/babel-plugin-namespace-modules-2.28.1.tgz#42754675e0dde320703cad799a97bba0789766fc"
+  integrity sha512-ZmcJIsAv+VQZSG7AMyvsPU+iRC/xMVzQsYxSlSCtgBZx17OeZ4zZHmhR7R87dakkOKqEVuoPuJrwPamLrdMSNw==
   dependencies:
-    liferay-npm-build-tools-common "2.28.0"
+    liferay-npm-build-tools-common "2.28.1"
 
-babel-plugin-normalize-requires@2.28.0:
-  version "2.28.0"
-  resolved "http://localhost:4873/babel-plugin-normalize-requires/-/babel-plugin-normalize-requires-2.28.0.tgz#28c410c8aa31e6ea72b015a2223bf5c4c79fece7"
-  integrity sha512-LvMuyeKo1t7ZM5p/4fUU9zKioQIn2Ec1exF2HxLf+yjtq3xnncEWQzT09NNTEAjNZeCf+M8pnraWtDexg/wnXA==
+babel-plugin-normalize-requires@2.28.1:
+  version "2.28.1"
+  resolved "http://localhost:4873/babel-plugin-normalize-requires/-/babel-plugin-normalize-requires-2.28.1.tgz#7f103a7d3ad30e3f75f50c4962298e824724eee4"
+  integrity sha512-L2FRTxUWHh0XECFi+I8niiPxq1JYz6i5LSUEWzlx6jHJLMkelsA6e7yDenahuPf5Jch5R6RXypQSXO51c9paCg==
   dependencies:
-    liferay-npm-build-tools-common "2.28.0"
+    liferay-npm-build-tools-common "2.28.1"
 
 babel-plugin-polyfill-corejs2@^0.3.0:
   version "0.3.0"
@@ -1445,30 +1445,30 @@ babel-plugin-transform-object-rest-spread@6.26.0:
     babel-plugin-syntax-object-rest-spread "^6.8.0"
     babel-runtime "^6.26.0"
 
-babel-plugin-wrap-modules-amd@2.28.0:
-  version "2.28.0"
-  resolved "http://localhost:4873/babel-plugin-wrap-modules-amd/-/babel-plugin-wrap-modules-amd-2.28.0.tgz#1ff371bea2c6bd74c0790800ab234b9e1c541723"
-  integrity sha512-v34bBFFoduk9bZzLs2TO/vEjirtyMkv92H1jV0QepTgGP/A9G3yAi9UugUCOi66H16Us8su6AEWcVGEqNYAIaQ==
+babel-plugin-wrap-modules-amd@2.28.1:
+  version "2.28.1"
+  resolved "http://localhost:4873/babel-plugin-wrap-modules-amd/-/babel-plugin-wrap-modules-amd-2.28.1.tgz#6fe5fbf77a1cc30d830e723bdeed635eb5d9135e"
+  integrity sha512-hAGdzwxhxAwBEDKBnXcIvWIhUTNArcwcKBwFsVpfI5HRBwPpgFA8PI8gKp1BLebC3kegNNxD+UK+ihRmcd3XiQ==
   dependencies:
     babel-template "^6.26.0"
-    liferay-npm-build-tools-common "2.28.0"
+    liferay-npm-build-tools-common "2.28.1"
     read-json-sync "^2.0.1"
 
-babel-preset-liferay-standard@2.28.0, babel-preset-liferay-standard@^2.27.0:
-  version "2.28.0"
-  resolved "http://localhost:4873/babel-preset-liferay-standard/-/babel-preset-liferay-standard-2.28.0.tgz#e82ca02a5837dc410555d3e1416be205651d32c8"
-  integrity sha512-XX583PxQkp3BzXrpc0iZM+WFfoYIextyC6cNrteFDYOc4CzDl3KHy9cNH71MYGkQpKvRfk9t4AUELXG6ADlJ0A==
+babel-preset-liferay-standard@2.28.1, babel-preset-liferay-standard@^2.27.0:
+  version "2.28.1"
+  resolved "http://localhost:4873/babel-preset-liferay-standard/-/babel-preset-liferay-standard-2.28.1.tgz#1da41ab579664326a94d4101959383268ab41f19"
+  integrity sha512-xnUnCAZG5esDcO4eVkjmuQwrHHWTyhiwBbVx5skVB2ZHdnpLPmHq2bUw/I/qM3vM1+7/5ujgqGATTwm28Cha+A==
   dependencies:
-    babel-plugin-add-module-metadata "2.28.0"
-    babel-plugin-alias-modules "2.28.0"
+    babel-plugin-add-module-metadata "2.28.1"
+    babel-plugin-alias-modules "2.28.1"
     babel-plugin-minify-dead-code-elimination "0.5.1"
-    babel-plugin-name-amd-modules "2.28.0"
-    babel-plugin-namespace-amd-define "2.28.0"
-    babel-plugin-namespace-modules "2.28.0"
-    babel-plugin-normalize-requires "2.28.0"
+    babel-plugin-name-amd-modules "2.28.1"
+    babel-plugin-namespace-amd-define "2.28.1"
+    babel-plugin-namespace-modules "2.28.1"
+    babel-plugin-normalize-requires "2.28.1"
     babel-plugin-transform-node-env-inline "0.4.3"
     babel-plugin-transform-object-rest-spread "6.26.0"
-    babel-plugin-wrap-modules-amd "2.28.0"
+    babel-plugin-wrap-modules-amd "2.28.1"
 
 babel-register@^6.26.0:
   version "6.26.0"
@@ -1557,10 +1557,10 @@ braces@^3.0.1, braces@~3.0.2:
   dependencies:
     fill-range "^7.0.1"
 
-browserslist@^4.14.5, browserslist@^4.17.5, browserslist@^4.18.1:
-  version "4.19.0"
-  resolved "http://localhost:4873/browserslist/-/browserslist-4.19.0.tgz#5f02742ac2b86dde56ae4cef7be2b003e47b1ee0"
-  integrity sha512-JGHzm73ei2OnAcobcQ61GXNnN6vDCg5Oz5MayudL+FyzjoLnCzUWnuLtDLMIYw8aXgQzzdCZMVky+fftD5jbtA==
+browserslist@^4.14.5, browserslist@^4.17.5, browserslist@^4.19.1:
+  version "4.19.1"
+  resolved "http://localhost:4873/browserslist/-/browserslist-4.19.1.tgz#4ac0435b35ab655896c31d53018b6dd5e9e4c9a3"
+  integrity sha512-u2tbbG5PdKRTUoctO3NBD8FQ5HdPh1ZXPHzp1rwaa5jTc+RV9/+RlWiAIKmjRPQF+xbGM9Kklj5bZQFa2s/38A==
   dependencies:
     caniuse-lite "^1.0.30001286"
     electron-to-chromium "^1.4.17"
@@ -1587,9 +1587,9 @@ camelcase@^5.0.0:
   integrity sha512-L28STB170nwWS63UjtlEOE3dldQApaJXZkOI1uMFfzf3rRuPegHaHesyee+YxQ+W6SvRDQV6UrdOdRiR153wJg==
 
 caniuse-lite@^1.0.30001286:
-  version "1.0.30001286"
-  resolved "http://localhost:4873/caniuse-lite/-/caniuse-lite-1.0.30001286.tgz#3e9debad420419618cfdf52dc9b6572b28a8fff6"
-  integrity sha512-zaEMRH6xg8ESMi2eQ3R4eZ5qw/hJiVsO/HlLwniIwErij0JDr9P+8V4dtx1l+kLq6j3yy8l8W4fst1lBnat5wQ==
+  version "1.0.30001291"
+  resolved "http://localhost:4873/caniuse-lite/-/caniuse-lite-1.0.30001291.tgz#08a8d2cfea0b2cf2e1d94dd795942d0daef6108c"
+  integrity sha512-roMV5V0HNGgJ88s42eE70sstqGW/gwFndosYrikHthw98N5tLnOTxFqMLQjZVRxTWFlJ4rn+MsgXrR7MDPY4jA==
 
 chalk@^1.1.3:
   version "1.1.3"
@@ -1675,11 +1675,11 @@ convert-source-map@^1.5.1, convert-source-map@^1.7.0:
     safe-buffer "~5.1.1"
 
 core-js-compat@^3.18.0, core-js-compat@^3.19.1:
-  version "3.19.3"
-  resolved "http://localhost:4873/core-js-compat/-/core-js-compat-3.19.3.tgz#de75e5821c5ce924a0a1e7b7d5c2cb973ff388aa"
-  integrity sha512-59tYzuWgEEVU9r+SRgceIGXSSUn47JknoiXW6Oq7RW8QHjXWz3/vp8pa7dbtuVu40sewz3OP3JmQEcDdztrLhA==
+  version "3.20.0"
+  resolved "http://localhost:4873/core-js-compat/-/core-js-compat-3.20.0.tgz#fd704640c5a213816b6d10ec0192756111e2c9d1"
+  integrity sha512-relrah5h+sslXssTTOkvqcC/6RURifB0W5yhYBdBkaPYa5/2KBMiog3XiD+s3TwEHWxInWVv4Jx2/Lw0vng+IQ==
   dependencies:
-    browserslist "^4.18.1"
+    browserslist "^4.19.1"
     semver "7.0.0"
 
 core-js@^2.4.0, core-js@^2.5.0:
@@ -1734,6 +1734,11 @@ deep-is@~0.1.3:
   resolved "http://localhost:4873/deep-is/-/deep-is-0.1.4.tgz#a6f2dce612fadd2ef1f519b73551f17e85199831"
   integrity sha512-oIPzksmTg4/MriiaYGO+okXDT7ztn/w3Eptv/+gSIdMdKsJo0u4CfYNFJPy+4SKMuCqGw2wxnA+URMg3t8a/bQ==
 
+deepmerge@^4.2.2:
+  version "4.2.2"
+  resolved "http://localhost:4873/deepmerge/-/deepmerge-4.2.2.tgz#44d2ea3679b8f4d4ffba33f03d865fc1e7bf4955"
+  integrity sha512-FJ3UgI4gIl+PHZm53knsuSFpE+nESMr7M4v9QcgB7S63Kj/6WqMiFQJpBBYz1Pt+66bZpP3Q7Lye0Oo9MPKEdg==
+
 define-properties@^1.1.3:
   version "1.1.3"
   resolved "http://localhost:4873/define-properties/-/define-properties-1.1.3.tgz#cf88da6cbee26fe6db7094f61d870cbd84cee9f1"
@@ -1755,6 +1760,36 @@ dir-glob@^3.0.1:
   dependencies:
     path-type "^4.0.0"
 
+dom-serializer@^1.0.1:
+  version "1.3.2"
+  resolved "http://localhost:4873/dom-serializer/-/dom-serializer-1.3.2.tgz#6206437d32ceefaec7161803230c7a20bc1b4d91"
+  integrity sha512-5c54Bk5Dw4qAxNOI1pFEizPSjVsx5+bpJKmL2kPn8JhBUq2q09tTCa3mjijun2NfK78NMouDYNMBkOrPZiS+ig==
+  dependencies:
+    domelementtype "^2.0.1"
+    domhandler "^4.2.0"
+    entities "^2.0.0"
+
+domelementtype@^2.0.1, domelementtype@^2.2.0:
+  version "2.2.0"
+  resolved "http://localhost:4873/domelementtype/-/domelementtype-2.2.0.tgz#9a0b6c2782ed6a1c7323d42267183df9bd8b1d57"
+  integrity sha512-DtBMo82pv1dFtUmHyr48beiuq792Sxohr+8Hm9zoxklYPfa6n0Z3Byjj2IV7bmr2IyqClnqEQhfgHJJ5QF0R5A==
+
+domhandler@^4.0.0, domhandler@^4.2.0:
+  version "4.3.0"
+  resolved "http://localhost:4873/domhandler/-/domhandler-4.3.0.tgz#16c658c626cf966967e306f966b431f77d4a5626"
+  integrity sha512-fC0aXNQXqKSFTr2wDNZDhsEYjCiYsDWl3D01kwt25hm1YIPyDGHvvi3rw+PLqHAl/m71MaiF7d5zvBr0p5UB2g==
+  dependencies:
+    domelementtype "^2.2.0"
+
+domutils@^2.5.2:
+  version "2.8.0"
+  resolved "http://localhost:4873/domutils/-/domutils-2.8.0.tgz#4437def5db6e2d1f5d6ee859bd95ca7d02048135"
+  integrity sha512-w96Cjofp72M5IIhpjgobBimYEfoPjx1Vx0BSX9P30WBdZW2WIKU0T1Bd0kz2eNZ9ikjKgHbEyKx8BB6H1L3h3A==
+  dependencies:
+    dom-serializer "^1.0.1"
+    domelementtype "^2.2.0"
+    domhandler "^4.2.0"
+
 dot-prop@^5.0.1:
   version "5.3.0"
   resolved "http://localhost:4873/dot-prop/-/dot-prop-5.3.0.tgz#90ccce708cd9cd82cc4dc8c3ddd9abdd55b20e88"
@@ -1768,9 +1803,9 @@ ejs@^2.6.1:
   integrity sha512-7vmuyh5+kuUyJKePhQfRQBhXV5Ce+RnaeeQArKu1EAMpL3WbgMt5WG6uQZpEVvYSSsxMXRKOewtDk9RaTKXRlA==
 
 electron-to-chromium@^1.4.17:
-  version "1.4.17"
-  resolved "http://localhost:4873/electron-to-chromium/-/electron-to-chromium-1.4.17.tgz#16ec40f61005582d5d41fac08400a254dccfb85f"
-  integrity sha512-zhk1MravPtq/KBhmGB7TLBILmXTgRG9TFSI3qS3DbgyfHzIl72iiTE37r/BHIbPCJJlWIo5rySyxiH4vWhu2ZA==
+  version "1.4.24"
+  resolved "http://localhost:4873/electron-to-chromium/-/electron-to-chromium-1.4.24.tgz#9cf8a92d5729c480ee47ff0aa5555f57467ae2fa"
+  integrity sha512-erwx5r69B/WFfFuF2jcNN0817BfDBdC4765kQ6WltOMuwsimlQo3JTEq0Cle+wpHralwdeX3OfAtw/mHxPK0Wg==
 
 emoji-regex@^7.0.1:
   version "7.0.3"
@@ -1784,6 +1819,11 @@ enhanced-resolve@^5.8.3:
   dependencies:
     graceful-fs "^4.2.4"
     tapable "^2.2.0"
+
+entities@^2.0.0:
+  version "2.2.0"
+  resolved "http://localhost:4873/entities/-/entities-2.2.0.tgz#098dc90ebb83d8dffa089d55256b351d34c4da55"
+  integrity sha512-p92if5Nz619I0w+akJrLZH0MX0Pb5DX39XOwQTtXSdQQOaYH03S1uIQp4mhOZtAXrxq4ViO67YTiLBo2638o9A==
 
 es-module-lexer@^0.9.0:
   version "0.9.3"
@@ -1804,6 +1844,11 @@ escape-string-regexp@^2.0.0:
   version "2.0.0"
   resolved "http://localhost:4873/escape-string-regexp/-/escape-string-regexp-2.0.0.tgz#a30304e99daa32e23b2fd20f51babd07cffca344"
   integrity sha512-UpzcLCXolUWcNu5HtVMHYdXJjArjsF9C0aNnquZYY4uW/Vu0miy5YoWvbV345HauVvcAUnpRuhMMcqTcGOY2+w==
+
+escape-string-regexp@^4.0.0:
+  version "4.0.0"
+  resolved "http://localhost:4873/escape-string-regexp/-/escape-string-regexp-4.0.0.tgz#14ba83a5d373e3d311e5afca29cf5bfad965bf34"
+  integrity sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA==
 
 escodegen@^1.14.1:
   version "1.14.3"
@@ -2037,10 +2082,20 @@ home-or-tmp@^2.0.0:
     os-homedir "^1.0.0"
     os-tmpdir "^1.0.1"
 
+htmlparser2@^6.0.0:
+  version "6.1.0"
+  resolved "http://localhost:4873/htmlparser2/-/htmlparser2-6.1.0.tgz#c4d762b6c3371a05dbe65e94ae43a9f845fb8fb7"
+  integrity sha512-gyyPk6rgonLFEDGoeRgQNaEUvdJ4ktTmmUh/h2t7s+M8oPpIPxgNACWa+6ESR57kXstwqPiCut0V8NRpcwgU7A==
+  dependencies:
+    domelementtype "^2.0.1"
+    domhandler "^4.0.0"
+    domutils "^2.5.2"
+    entities "^2.0.0"
+
 ignore@^5.1.1:
-  version "5.1.9"
-  resolved "http://localhost:4873/ignore/-/ignore-5.1.9.tgz#9ec1a5cbe8e1446ec60d4420060d43aa6e7382fb"
-  integrity sha512-2zeMQpbKz5dhZ9IwL0gbxSW5w0NK/MSAMtNuhgIHEPmaU3vPdKPL0UdvUCXs5SS4JAwsBxysK5sFMW8ocFiVjQ==
+  version "5.2.0"
+  resolved "http://localhost:4873/ignore/-/ignore-5.2.0.tgz#6d3bac8fa7fe0d45d9f9be7bac2fc279577e345a"
+  integrity sha512-CmxgYGiEPCLhfLnpPp1MoRmifwEIOgjcHXxOBjv7mY96c+eWScsOP9c112ZyLdWHi0FxHjI+4uVhKYp/gcdRmQ==
 
 immediate@~3.0.5:
   version "3.0.6"
@@ -2118,6 +2173,11 @@ is-obj@^2.0.0:
   resolved "http://localhost:4873/is-obj/-/is-obj-2.0.0.tgz#473fb05d973705e3fd9620545018ca8e22ef4982"
   integrity sha512-drqDG3cbczxxEJRoOXcOjtdp1J/lyp1mNn0xaznRs8+muBhgQcrnbspox5X5fOw0HnMnbfDzvnEMEtqDEJEo8w==
 
+is-plain-object@^5.0.0:
+  version "5.0.0"
+  resolved "http://localhost:4873/is-plain-object/-/is-plain-object-5.0.0.tgz#4427f50ab3429e9025ea7d52e9043a9ef4159344"
+  integrity sha512-VRSzKkbMm5jMDoKLbltAkFQ5Qr7VDiTFGXxYFXXowVj387GeGNOCsOH6Msy00SGZ3Fp84b1Naa1psqgcCIEP5Q==
+
 isarray@~1.0.0:
   version "1.0.0"
   resolved "http://localhost:4873/isarray/-/isarray-1.0.0.tgz#bb935d48582cba168c06834957a54a3e07124f11"
@@ -2128,7 +2188,7 @@ isexe@^2.0.0:
   resolved "http://localhost:4873/isexe/-/isexe-2.0.0.tgz#e8fbf374dc556ff8947a10dcb0572d633f2cfa10"
   integrity sha1-6PvzdNxVb/iUehDcsFctYz8s+hA=
 
-jest-worker@^27.0.6:
+jest-worker@^27.4.1:
   version "27.4.5"
   resolved "http://localhost:4873/jest-worker/-/jest-worker-27.4.5.tgz#d696e3e46ae0f24cff3fa7195ffba22889262242"
   integrity sha512-f2s8kEdy15cv9r7q4KkzGXvlY0JTcmCbMHZBfSQDwW77REr45IDWwd0lksDFeVHH2jJ5pqb90T77XscrjeGzzg==
@@ -2216,133 +2276,133 @@ lie@~3.3.0:
   dependencies:
     immediate "~3.0.5"
 
-liferay-npm-build-tools-common@2.28.0, liferay-npm-build-tools-common@^2.27.0:
-  version "2.28.0"
-  resolved "http://localhost:4873/liferay-npm-build-tools-common/-/liferay-npm-build-tools-common-2.28.0.tgz#a3250453a3507216b29c2515100f9027bb5a057f"
-  integrity sha512-NH1AxFo+YYHsHzlIhUQEY9tgtkvq6hauUSMRjl2yR45nD0S3lmL7YkkQDoanWZIx4VNMkVgE1ih9sjuHiEwXbw==
+liferay-npm-build-tools-common@2.28.1, liferay-npm-build-tools-common@^2.27.0:
+  version "2.28.1"
+  resolved "http://localhost:4873/liferay-npm-build-tools-common/-/liferay-npm-build-tools-common-2.28.1.tgz#1f9c2b09b03394ea710121e9fdeff695885393d6"
+  integrity sha512-qx4Dgi8KZdPcTbrFjWkrGa6LIPOdu6/7gXy+r1YfVNpaGI4Yd2ITQAuXA3mf0E59jYC7QPu6lQ7kT4ac9L1NpA==
   dependencies:
     chalk "^2.4.2"
     dot-prop "^5.0.1"
     escape-string-regexp "^2.0.0"
-    liferay-npm-bundler-preset-standard "2.28.0"
+    liferay-npm-bundler-preset-standard "2.28.1"
     merge "^2.1.1"
     properties "^1.2.1"
     read-json-sync "^2.0.1"
     resolve "^1.8.1"
 
 liferay-npm-bundler-loader-babel-loader@^2.27.0:
-  version "2.28.0"
-  resolved "http://localhost:4873/liferay-npm-bundler-loader-babel-loader/-/liferay-npm-bundler-loader-babel-loader-2.28.0.tgz#5e9631795e46a4bf311539c2d3702909225feb70"
-  integrity sha512-bSRJxp0EW2u0RyBB9w0bElp0ulT9aMaN9RNo65q9S1Mcb4AePpxEv8dm6q8fB/ywXi1vTAJBmyxwCVUPsPbLpQ==
+  version "2.28.1"
+  resolved "http://localhost:4873/liferay-npm-bundler-loader-babel-loader/-/liferay-npm-bundler-loader-babel-loader-2.28.1.tgz#88554016f6006f4f40b2c78de4ec2fcd1aebff80"
+  integrity sha512-ot0eSOmXtifp4bhj2Xs0hJOCnqBuw/vilLQ7Zi8KLkSB/6qJN4b2DLqibso1DMg1rzBbDzAKn1bZsjEt5ZyRlg==
   dependencies:
     babel-core "^6.26.3"
     data-urls "^1.1.0"
-    liferay-npm-build-tools-common "2.28.0"
+    liferay-npm-build-tools-common "2.28.1"
     read-json-sync "^2.0.1"
 
 liferay-npm-bundler-loader-copy-loader@^2.27.0:
-  version "2.28.0"
-  resolved "http://localhost:4873/liferay-npm-bundler-loader-copy-loader/-/liferay-npm-bundler-loader-copy-loader-2.28.0.tgz#948ec44329284353498fe84bbc481e002851df1b"
-  integrity sha512-RZtq+MtiW0UamEfseoXss6IcVSVTLSti3nHIb5Xxa/PihvEfUns7S5ajER34FVSIHWs4D75JVgXb8c3Y6pp11g==
+  version "2.28.1"
+  resolved "http://localhost:4873/liferay-npm-bundler-loader-copy-loader/-/liferay-npm-bundler-loader-copy-loader-2.28.1.tgz#58f3bced373cc1deef1bab7e027a2ee3408a7950"
+  integrity sha512-wuiPKxrGMHo/bconQ2H/vBLcWhYN+zn+B7/I+3nq6RmmfPeTiGGlqbFqd37bdh8tL+26ZSHXHIQtPM2hDS8qCw==
   dependencies:
-    liferay-npm-build-tools-common "2.28.0"
+    liferay-npm-build-tools-common "2.28.1"
 
 liferay-npm-bundler-loader-css-loader@^2.27.0:
-  version "2.28.0"
-  resolved "http://localhost:4873/liferay-npm-bundler-loader-css-loader/-/liferay-npm-bundler-loader-css-loader-2.28.0.tgz#ae46a5c1e8a8c3d62f88eee82fc285efdc5ad82f"
-  integrity sha512-sdiGGqa9D4qglFl2XQiVUOzaijyN1rWU9U5jydw3jqYnTw27HhF7DZZ/wE4vOvVQ07m/LNRrtMiJFrFR7X4j8Q==
+  version "2.28.1"
+  resolved "http://localhost:4873/liferay-npm-bundler-loader-css-loader/-/liferay-npm-bundler-loader-css-loader-2.28.1.tgz#5a7dc9a61b0539a95fadd361aa16d063fb755808"
+  integrity sha512-LNU0FBCza1wwQ1PW30EaJLBxH3SKIFcumo3DU9I27v3DiPtTMetMSYDmx6UMLPiOH97jszU98frF0EQ5y+lhsg==
   dependencies:
-    liferay-npm-build-tools-common "2.28.0"
+    liferay-npm-build-tools-common "2.28.1"
     read-json-sync "^2.0.1"
 
 liferay-npm-bundler-loader-json-loader@^2.27.0:
-  version "2.28.0"
-  resolved "http://localhost:4873/liferay-npm-bundler-loader-json-loader/-/liferay-npm-bundler-loader-json-loader-2.28.0.tgz#3c77ae3ed6953c1c1c76ee076c34bf25ccaba8e0"
-  integrity sha512-hAotovw+eFj2GcpzKuKXPB1ARLLXgsV4brODM0YgjnBXNq/DGoCAfJAAwGzNiBb4P5pI+msjw1wtnmfxRCwcUw==
+  version "2.28.1"
+  resolved "http://localhost:4873/liferay-npm-bundler-loader-json-loader/-/liferay-npm-bundler-loader-json-loader-2.28.1.tgz#32a9da2d2532ad24db01ae8de7520611fd003307"
+  integrity sha512-qpD9ZZstkfpxuV9O//cYqS6u/7mgIWpW0gF3mwUMjIiHXtHcpGPXJ7+rImApxWZ9Xu45GRc5T15yhtdIXVp8lw==
   dependencies:
-    liferay-npm-build-tools-common "2.28.0"
+    liferay-npm-build-tools-common "2.28.1"
 
 liferay-npm-bundler-loader-sass-loader@^2.27.0:
-  version "2.28.0"
-  resolved "http://localhost:4873/liferay-npm-bundler-loader-sass-loader/-/liferay-npm-bundler-loader-sass-loader-2.28.0.tgz#5495b70c403faa78249144d52ffe880928600490"
-  integrity sha512-H029zW/TjWF9pP7ypq+2twZPZxOxTivZPj3ycLDsUq06ZWcr/m+bDB3Hdf0yfWpjuXuyVXhssVXm4U/t3Lrn3g==
+  version "2.28.1"
+  resolved "http://localhost:4873/liferay-npm-bundler-loader-sass-loader/-/liferay-npm-bundler-loader-sass-loader-2.28.1.tgz#b9d7195bc2511c2b6d29fe52ffa6fafae2f1e617"
+  integrity sha512-XpSt+42OAtGdgEKywz/jjiixdsltbCzUb578pAUvWb8DwVPkEgwazjndUnUQ4/Irey5eaOfXhfrhK61CQIz0kg==
   dependencies:
     resolve "^1.8.1"
     sass "^1.22.2"
 
 liferay-npm-bundler-loader-style-loader@^2.27.0:
-  version "2.28.0"
-  resolved "http://localhost:4873/liferay-npm-bundler-loader-style-loader/-/liferay-npm-bundler-loader-style-loader-2.28.0.tgz#1e5aab946171ee8de5f7f28f360624cdd4935720"
-  integrity sha512-KFEb2RAsI2iqNl23SAHkNNR5Ipt92aUYKkPJe+5AO2X9jjuYpseTtCzlDhlbR+q4VAqA1jRXijqH0/p48llRWg==
+  version "2.28.1"
+  resolved "http://localhost:4873/liferay-npm-bundler-loader-style-loader/-/liferay-npm-bundler-loader-style-loader-2.28.1.tgz#975de5544513080e5260400ab430fddc8b21ea4b"
+  integrity sha512-MUmK7S4oHYOf5mWfzPIC5tdq7ikEmIQWqfQrHWzujC1HUyASSFa+LWJdQwCvdP+eIubrL3LoO1xStZEt6sbIpA==
   dependencies:
-    liferay-npm-build-tools-common "2.28.0"
+    liferay-npm-build-tools-common "2.28.1"
 
-liferay-npm-bundler-plugin-exclude-imports@2.28.0, liferay-npm-bundler-plugin-exclude-imports@^2.27.0:
-  version "2.28.0"
-  resolved "http://localhost:4873/liferay-npm-bundler-plugin-exclude-imports/-/liferay-npm-bundler-plugin-exclude-imports-2.28.0.tgz#c88c16ccba4f9ad35d7b29ab48c7f59c1a9a4d1d"
-  integrity sha512-Wvd1iFXFCMl1c3U5jd6U66nLUNAlaGSkS/0PdM09C6EbrWe/xJsSUKOYLUb6EvTUHMyhjNBjcpyVhd76o+A6xQ==
+liferay-npm-bundler-plugin-exclude-imports@2.28.1, liferay-npm-bundler-plugin-exclude-imports@^2.27.0:
+  version "2.28.1"
+  resolved "http://localhost:4873/liferay-npm-bundler-plugin-exclude-imports/-/liferay-npm-bundler-plugin-exclude-imports-2.28.1.tgz#c0a4319bd1999d5babe998b9c90245c5abf3dc76"
+  integrity sha512-KJxU3GkS9olwwHmW3xhG3rwOsTLrfIEG/Qn8egAEOxXCHEGV63oNh3FEmLhLwTBxLS5XsNmq1Zk43KrtsGts9w==
   dependencies:
-    liferay-npm-build-tools-common "2.28.0"
+    liferay-npm-build-tools-common "2.28.1"
 
-liferay-npm-bundler-plugin-inject-imports-dependencies@2.28.0, liferay-npm-bundler-plugin-inject-imports-dependencies@^2.27.0:
-  version "2.28.0"
-  resolved "http://localhost:4873/liferay-npm-bundler-plugin-inject-imports-dependencies/-/liferay-npm-bundler-plugin-inject-imports-dependencies-2.28.0.tgz#8f88dc726292578909fcb531b5d3772f59df3872"
-  integrity sha512-xic+TcXvDDf6LcpvaFkHMWn0FUHb3r8ALiOUBRBRsNj4kn5mL8xPcarsnlMc+x+ail9xTjs/+JzwvF3S4miqJA==
+liferay-npm-bundler-plugin-inject-imports-dependencies@2.28.1, liferay-npm-bundler-plugin-inject-imports-dependencies@^2.27.0:
+  version "2.28.1"
+  resolved "http://localhost:4873/liferay-npm-bundler-plugin-inject-imports-dependencies/-/liferay-npm-bundler-plugin-inject-imports-dependencies-2.28.1.tgz#07410a78ad269af9feffa049afe9a529d299d6a1"
+  integrity sha512-MzxDYRMRcdOeJdIA7nnOxAC3UBnKfgriwVWc/Kh0oWqL9kvmnWlAtSFpIeBWChJ0c/tetN+IGSkcJwSkGc6Uww==
   dependencies:
-    liferay-npm-build-tools-common "2.28.0"
+    liferay-npm-build-tools-common "2.28.1"
 
-liferay-npm-bundler-plugin-inject-peer-dependencies@2.28.0, liferay-npm-bundler-plugin-inject-peer-dependencies@^2.27.0:
-  version "2.28.0"
-  resolved "http://localhost:4873/liferay-npm-bundler-plugin-inject-peer-dependencies/-/liferay-npm-bundler-plugin-inject-peer-dependencies-2.28.0.tgz#d7e2e684c775d87d61955cfee9155373902212a0"
-  integrity sha512-VEfykVH4hy4wAwLyEGp4ZktaNxdhD+KKEv2Uuam9qQMpasRAZFpn3rYI4gDqO6plTQEeNqfM3x0X10aDHR+7NQ==
+liferay-npm-bundler-plugin-inject-peer-dependencies@2.28.1, liferay-npm-bundler-plugin-inject-peer-dependencies@^2.27.0:
+  version "2.28.1"
+  resolved "http://localhost:4873/liferay-npm-bundler-plugin-inject-peer-dependencies/-/liferay-npm-bundler-plugin-inject-peer-dependencies-2.28.1.tgz#44ced2255d7b5c81c23e7a8289240d79fd72ef97"
+  integrity sha512-TziTBob3Oe/iQsGuhngYXK1WKYweJ71eEqGLV561zYpkAqx6xmuph9xsa+yMauFTysenDYm1UjSBCGy/KP3Myw==
   dependencies:
     globby "^10.0.1"
-    liferay-npm-build-tools-common "2.28.0"
+    liferay-npm-build-tools-common "2.28.1"
     read-json-sync "^2.0.1"
     resolve "^1.8.1"
 
-liferay-npm-bundler-plugin-namespace-packages@2.28.0, liferay-npm-bundler-plugin-namespace-packages@^2.27.0:
-  version "2.28.0"
-  resolved "http://localhost:4873/liferay-npm-bundler-plugin-namespace-packages/-/liferay-npm-bundler-plugin-namespace-packages-2.28.0.tgz#74b89f5f78af7aed30f619204d786ec2aa6ef0b9"
-  integrity sha512-1RRGdYwDpDb1i+MajISvzpt6iIKUSyho+x/D/y1nKC8fiKdNFCDCSwHRa30eMX82jzKeS+yxir1sYRntOVjpzQ==
+liferay-npm-bundler-plugin-namespace-packages@2.28.1, liferay-npm-bundler-plugin-namespace-packages@^2.27.0:
+  version "2.28.1"
+  resolved "http://localhost:4873/liferay-npm-bundler-plugin-namespace-packages/-/liferay-npm-bundler-plugin-namespace-packages-2.28.1.tgz#153eccfb652f63782ac0a2b96cfe85968501b180"
+  integrity sha512-Zeun0urZyNXbhtdKBLoSeO2c8lsfjcauPDTJaBRz5/ynRhYU9MJuZTeW5WMKMMBvmg/BxbIPSPEGtCr1JU5E7A==
   dependencies:
-    liferay-npm-build-tools-common "2.28.0"
+    liferay-npm-build-tools-common "2.28.1"
 
-liferay-npm-bundler-plugin-replace-browser-modules@2.28.0, liferay-npm-bundler-plugin-replace-browser-modules@^2.27.0:
-  version "2.28.0"
-  resolved "http://localhost:4873/liferay-npm-bundler-plugin-replace-browser-modules/-/liferay-npm-bundler-plugin-replace-browser-modules-2.28.0.tgz#3b795a31190b5a774115cc46de57a83cd2089e3f"
-  integrity sha512-zjVkp/HJH7c0nFCi4w1Xc+84EQ2JZ8g8Jcrwvzq7zmZuJCu9tYC3c0b4GRMTomifO0VpeIpQp2KcxwdIN9UFCA==
+liferay-npm-bundler-plugin-replace-browser-modules@2.28.1, liferay-npm-bundler-plugin-replace-browser-modules@^2.27.0:
+  version "2.28.1"
+  resolved "http://localhost:4873/liferay-npm-bundler-plugin-replace-browser-modules/-/liferay-npm-bundler-plugin-replace-browser-modules-2.28.1.tgz#06640a5db56d0ef32c7bcce71a7f32559da829ce"
+  integrity sha512-ROWGJ3xAI0WV1dgimhIbyd7+MRcfRhELjAVm4TQgqFFqcn/TFsJDOsJFffAKUXSVYDbDEUQdD50InrSNWe+dGw==
   dependencies:
     dot-prop "^5.0.1"
     fs-extra "^8.1.0"
-    liferay-npm-build-tools-common "2.28.0"
+    liferay-npm-build-tools-common "2.28.1"
 
-liferay-npm-bundler-plugin-resolve-linked-dependencies@2.28.0, liferay-npm-bundler-plugin-resolve-linked-dependencies@^2.27.0:
-  version "2.28.0"
-  resolved "http://localhost:4873/liferay-npm-bundler-plugin-resolve-linked-dependencies/-/liferay-npm-bundler-plugin-resolve-linked-dependencies-2.28.0.tgz#777a62692fcdd2c9ae5d7583d4d391d90ae8c0c0"
-  integrity sha512-8mqZMM3Rx+R68y7B9DZknHsyf2nPFwGdmHiwSfBzR5Lh0Oud3aG45hbKMZe2y9RhrPniCPGjd3KOXcgeC7Iw/A==
+liferay-npm-bundler-plugin-resolve-linked-dependencies@2.28.1, liferay-npm-bundler-plugin-resolve-linked-dependencies@^2.27.0:
+  version "2.28.1"
+  resolved "http://localhost:4873/liferay-npm-bundler-plugin-resolve-linked-dependencies/-/liferay-npm-bundler-plugin-resolve-linked-dependencies-2.28.1.tgz#0a593f8b39a619fb66398397464d88ec2f568978"
+  integrity sha512-1ZW8bbCBVTc7Dux+bxo8YqbcEzd4ICgsdHpIcYBQB9DscEPGVLgcsG7RkUWHsrx724veeGGgBeqtEA+L3YUsvw==
   dependencies:
-    liferay-npm-build-tools-common "2.28.0"
+    liferay-npm-build-tools-common "2.28.1"
     read-json-sync "^2.0.1"
     semver "^6.3.0"
 
-liferay-npm-bundler-preset-standard@2.28.0:
-  version "2.28.0"
-  resolved "http://localhost:4873/liferay-npm-bundler-preset-standard/-/liferay-npm-bundler-preset-standard-2.28.0.tgz#93ec8004d042c854bed589babb92f3c104f905b6"
-  integrity sha512-2KgaFOkFdFtz6quBOXoWFyPgEUaye//syLYD1ouzjx3tUaL3mkVOBuCH9spFeSZhMIY3ylZbQ3rOtLEk6CZlLg==
+liferay-npm-bundler-preset-standard@2.28.1:
+  version "2.28.1"
+  resolved "http://localhost:4873/liferay-npm-bundler-preset-standard/-/liferay-npm-bundler-preset-standard-2.28.1.tgz#a6eda48719256447c4e1191eec908ff0b29edb95"
+  integrity sha512-0kA/9yDRuPlmlJJzdhC2fpjVHUztcYp7scpyQ8PfolbUubqi2uwa/JlVgAP5AnQChl7cy0b96Tw6uJkw3JGQng==
   dependencies:
-    babel-preset-liferay-standard "2.28.0"
-    liferay-npm-bundler-plugin-exclude-imports "2.28.0"
-    liferay-npm-bundler-plugin-inject-imports-dependencies "2.28.0"
-    liferay-npm-bundler-plugin-inject-peer-dependencies "2.28.0"
-    liferay-npm-bundler-plugin-namespace-packages "2.28.0"
-    liferay-npm-bundler-plugin-replace-browser-modules "2.28.0"
-    liferay-npm-bundler-plugin-resolve-linked-dependencies "2.28.0"
+    babel-preset-liferay-standard "2.28.1"
+    liferay-npm-bundler-plugin-exclude-imports "2.28.1"
+    liferay-npm-bundler-plugin-inject-imports-dependencies "2.28.1"
+    liferay-npm-bundler-plugin-inject-peer-dependencies "2.28.1"
+    liferay-npm-bundler-plugin-namespace-packages "2.28.1"
+    liferay-npm-bundler-plugin-replace-browser-modules "2.28.1"
+    liferay-npm-bundler-plugin-resolve-linked-dependencies "2.28.1"
 
 liferay-npm-bundler@*, liferay-npm-bundler@^2.27.0:
-  version "2.28.0"
-  resolved "http://localhost:4873/liferay-npm-bundler/-/liferay-npm-bundler-2.28.0.tgz#5944296d953706d31fd345a743ed2dcc2b3c917a"
-  integrity sha512-oW1xSq/v5JifJrkEcH3TUcsm6R3BVTs2LPeeWbpkSPEp3SAKhQMwfO8X2cvUbJDSLieOaXFAo00L8QL2RFu/Bw==
+  version "2.28.1"
+  resolved "http://localhost:4873/liferay-npm-bundler/-/liferay-npm-bundler-2.28.1.tgz#b52006f28ae370974e3e9e030f25b0be23844265"
+  integrity sha512-MV060OSntp7PFNcyUWaksakZuwRKNhnMtAqSEiJeVPlI7osxLbIkdsEVDsCwh9Wie1VEx7MdPPl6ZAceGEaMQw==
   dependencies:
     babel-core "^6.26.3"
     clone "^2.1.2"
@@ -2351,8 +2411,8 @@ liferay-npm-bundler@*, liferay-npm-bundler@^2.27.0:
     fs-extra "^8.1.0"
     globby "^10.0.1"
     jszip "^3.1.5"
-    liferay-npm-build-tools-common "2.28.0"
-    liferay-npm-bundler-preset-standard "2.28.0"
+    liferay-npm-build-tools-common "2.28.1"
+    liferay-npm-bundler-preset-standard "2.28.1"
     merge "^2.1.1"
     pretty-time "^1.1.0"
     read-json-sync "^2.0.1"
@@ -2461,6 +2521,11 @@ ms@2.1.2:
   resolved "http://localhost:4873/ms/-/ms-2.1.2.tgz#d09d1f357b443f493382a8eb3ccd183872ae6009"
   integrity sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w==
 
+nanoid@^3.1.30:
+  version "3.1.30"
+  resolved "http://localhost:4873/nanoid/-/nanoid-3.1.30.tgz#63f93cc548d2a113dc5dfbc63bfa09e2b9b64362"
+  integrity sha512-zJpuPDwOv8D2zq2WRoMe1HsfZthVewpel9CAvTfc/2mBD1uUT/agc5f7GHGWXlYkFvi1mVxe4IjvP2HNrop7nQ==
+
 neo-async@^2.6.2:
   version "2.6.2"
   resolved "http://localhost:4873/neo-async/-/neo-async-2.6.2.tgz#b4aafb93e3aeb2d8174ca53cf163ab7d7308305f"
@@ -2544,6 +2609,11 @@ pako@~1.0.2:
   resolved "http://localhost:4873/pako/-/pako-1.0.11.tgz#6c9599d340d54dfd3946380252a35705a6b992bf"
   integrity sha512-4hLB8Py4zZce5s4yd9XzopqwVv/yGNhV1Bl8NTmCq1763HeK2+EwVTv+leGeL13Dnh2wfbqowVPXCIO0z4taYw==
 
+parse-srcset@^1.0.2:
+  version "1.0.2"
+  resolved "http://localhost:4873/parse-srcset/-/parse-srcset-1.0.2.tgz#f2bd221f6cc970a938d88556abc589caaaa2bde1"
+  integrity sha1-8r0iH2zJcKk42IVWq8WJyqqiveE=
+
 path-exists@^3.0.0:
   version "3.0.0"
   resolved "http://localhost:4873/path-exists/-/path-exists-3.0.0.tgz#ce0ebeaa5f78cb18925ea7d810d7b59b010fd515"
@@ -2578,6 +2648,15 @@ picomatch@^2.0.4, picomatch@^2.2.1, picomatch@^2.2.3:
   version "2.3.0"
   resolved "http://localhost:4873/picomatch/-/picomatch-2.3.0.tgz#f1f061de8f6a4bf022892e2d128234fb98302972"
   integrity sha512-lY1Q/PiJGC2zOv/z391WOTD+Z02bCgsFfvxoXXf6h7kv9o+WmsmzYqrAwY63sNgOxE4xEdq0WyUnXfKeBrSvYw==
+
+postcss@^8.3.11:
+  version "8.4.5"
+  resolved "http://localhost:4873/postcss/-/postcss-8.4.5.tgz#bae665764dfd4c6fcc24dc0fdf7e7aa00cc77f95"
+  integrity sha512-jBDboWM8qpaqwkMwItqTQTiFikhs/67OYVvblFFTM7MrZjt6yMKd6r2kgXizEbTTljacm4NldIlZnhbjr84QYg==
+  dependencies:
+    nanoid "^3.1.30"
+    picocolors "^1.0.0"
+    source-map-js "^1.0.1"
 
 prelude-ls@~1.1.2:
   version "1.1.2"
@@ -2753,6 +2832,18 @@ safe-buffer@~5.1.0, safe-buffer@~5.1.1:
   resolved "http://localhost:4873/safe-buffer/-/safe-buffer-5.1.2.tgz#991ec69d296e0313747d59bdfd2b745c35f8828d"
   integrity sha512-Gd2UZBJDkXlY7GbJxfsE8/nvKkUEU1G38c1siN6QP6a9PT9MmHB8GnpscSmMJSoF8LOIrt8ud/wPtojys4G6+g==
 
+sanitize-html@^2.3.2:
+  version "2.6.1"
+  resolved "http://localhost:4873/sanitize-html/-/sanitize-html-2.6.1.tgz#5d37c08e189c61c0631560a889b10d9d155d000e"
+  integrity sha512-DzjSz3H5qDntD7s1TcWCSoRPmNR8UmA+y+xZQOvWgjATe2Br9ZW73+vD3Pj6Snrg0RuEuJdXgrKvnYuiuixRkA==
+  dependencies:
+    deepmerge "^4.2.2"
+    escape-string-regexp "^4.0.0"
+    htmlparser2 "^6.0.0"
+    is-plain-object "^5.0.0"
+    parse-srcset "^1.0.2"
+    postcss "^8.3.11"
+
 sass@^1.22.2, sass@^1.35.1:
   version "1.45.0"
   resolved "http://localhost:4873/sass/-/sass-1.45.0.tgz#192ede1908324bb293a3e403d1841dbcaafdd323"
@@ -2766,6 +2857,13 @@ sax@^1.2.4:
   version "1.2.4"
   resolved "http://localhost:4873/sax/-/sax-1.2.4.tgz#2816234e2378bddc4e5354fab5caa895df7100d9"
   integrity sha512-NqVDv9TpANUjFm0N8uM5GxL36UgKi9/atZw+x7YFnQ8ckwFGKrl4xX4yWtrey3UJm5nP1kUbnYgLopqWNSRhWw==
+
+sbd@1.0.19:
+  version "1.0.19"
+  resolved "http://localhost:4873/sbd/-/sbd-1.0.19.tgz#5cdcb5e8210e3fc79170b62a61eb85b30a0b87c1"
+  integrity sha512-b5RyZMGSrFuIB4AHdbv12uYHS8YGEJ36gtuvG3RflbJGY+T0dXmAL0E4vZjQqT2RsX0v+ZwVqhV2zsGr5aFK9w==
+  dependencies:
+    sanitize-html "^2.3.2"
 
 schema-utils@^3.1.0, schema-utils@^3.1.1:
   version "3.1.1"
@@ -2825,7 +2923,7 @@ slash@^3.0.0:
   resolved "http://localhost:4873/slash/-/slash-3.0.0.tgz#6539be870c165adbd5240220dbe361f1bc4d4634"
   integrity sha512-g9Q1haeby36OSStwb4ntCGGGaKsaVSjQ68fBxoQcutl5fS1vuY18H3wSt3jFyFtrkx+Kz0V1G85A4MyAdDMi2Q==
 
-"source-map-js@>=0.6.2 <2.0.0":
+"source-map-js@>=0.6.2 <2.0.0", source-map-js@^1.0.1:
   version "1.0.1"
   resolved "http://localhost:4873/source-map-js/-/source-map-js-1.0.1.tgz#a1741c131e3c77d048252adfa24e23b908670caf"
   integrity sha512-4+TN2b3tqOCd/kaGRJ/sTYA0tR0mdXx26ipdolxcwtJVqEnqNYvlCAt1q3ypy4QMlYus+Zh34RNtYLoq2oQ4IA==
@@ -2915,11 +3013,11 @@ tapable@^2.1.1, tapable@^2.2.0:
   integrity sha512-GNzQvQTOIP6RyTfE2Qxb8ZVlNmw0n88vp1szwWRimP02mnTsx3Wtn5qRdqY9w2XduFNUgvOwhNnQsjwCp+kqaQ==
 
 terser-webpack-plugin@^5.1.3:
-  version "5.2.5"
-  resolved "http://localhost:4873/terser-webpack-plugin/-/terser-webpack-plugin-5.2.5.tgz#ce65b9880a0c36872555c4874f45bbdb02ee32c9"
-  integrity sha512-3luOVHku5l0QBeYS8r4CdHYWEGMmIj3H1U64jgkdZzECcSOJAyJ9TjuqcQZvw1Y+4AOBN9SeYJPJmFn2cM4/2g==
+  version "5.3.0"
+  resolved "http://localhost:4873/terser-webpack-plugin/-/terser-webpack-plugin-5.3.0.tgz#21641326486ecf91d8054161c816e464435bae9f"
+  integrity sha512-LPIisi3Ol4chwAaPP8toUJ3L4qCM1G0wao7L3qNv57Drezxj6+VEyySpPw4B1HSO2Eg/hDY/MNF5XihCAoqnsQ==
   dependencies:
-    jest-worker "^27.0.6"
+    jest-worker "^27.4.1"
     schema-utils "^3.1.1"
     serialize-javascript "^6.0.0"
     source-map "^0.6.1"

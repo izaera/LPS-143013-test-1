@@ -1,5 +1,6 @@
 import moment from '@esm-bundle/moment';
 //import moment from './node_modules/@esm-bundle/moment/esm/index.js';
+import tokenizer from 'sbd';
 
 /**                                                                                 
  * This is the main entry point of the portlet.                                     
@@ -12,9 +13,18 @@ import moment from '@esm-bundle/moment';
  */                                                                                 
 export default function main(params) { 
 	const node = document.getElementById(params.portletElementId);
+
+	const text = "On Jan. 20, former Sen. Barack Obama became the 44th President of the U.S. Millions attended the Inauguration.";
+	const sentences = tokenizer.sentences(text, {});
                                                                                     
 	node.innerHTML +=`                                                               
 		<div>
+			<div>
+				<span class="tag">
+					SBD Tokenizer:
+				</span> 
+				<span class="value">${sentences.join(' <·> ')}</span>
+			</div>
 			<div>
 				<span class="tag">
 					Moment:

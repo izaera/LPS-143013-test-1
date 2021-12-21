@@ -5,7 +5,8 @@
   "type": "module",
   "dependencies": {
     "@esm-bundle/moment": "^2.29.1",
-    "@liferay/portal-agnostic": "*"
+    "@liferay/portal-agnostic": "*",
+    "sbd": "1.0.19"
   },
   "portlet": {
     "com.liferay.portlet.display-category": "category.sample",
@@ -19,6 +20,8 @@
     "build": "liferay build",
     "clean": "liferay clean",
     "deploy": "liferay deploy"
+  },
+  "optionalDependencies": {
+    "@liferay/portal-base": "^1.0.0"
   }
 }
-
