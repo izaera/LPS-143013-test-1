@@ -1,0 +1,16 @@
+{
+  "name": "LPS-143013-test-2",
+  "version": "1.0.0",
+  "description": "LPS 143013 Test 2",
+  "type": "module",
+  "dependencies": {
+    "@esm-bundle/moment": "^2.29.1",
+    "@liferay/portal-agnostic": "*",
+    "sbd": "1.0.19"
+  },
+  "scripts": {
+    "build": "liferay build",
+    "clean": "liferay clean",
+    "deploy": "liferay deploy"
+  }
+}
