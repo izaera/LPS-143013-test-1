@@ -1,5 +1,5 @@
 {
-	"@esm-bundle/moment": "./node_modules/@esm-bundle/moment/esm/index.js",
+	"@esm-bundle/moment": "/o/LPS-143013-test-2-1.0.0/node_modules/@esm-bundle/moment/esm/index.js",
 	"sbd": "cjs:./node_modules/sbd/lib/tokenizer.js",
 	"LPS-143013-test-2": "/o/LPS-143013-test-2-1.0.0/index.js"
 }

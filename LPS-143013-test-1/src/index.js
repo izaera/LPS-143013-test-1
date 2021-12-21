@@ -1,7 +1,7 @@
 import moment from '@esm-bundle/moment';
 //import moment from './node_modules/@esm-bundle/moment/esm/index.js';
 import tokenizer from 'sbd';
-import lps from 'LPS-143013-test-2';
+import lps, {getMoment} from 'LPS-143013-test-2';
 
 /**                                                                                 
  * This is the main entry point of the portlet.                                     
@@ -20,6 +20,12 @@ export default function main(params) {
                                                                                     
 	node.innerHTML +=`                                                               
 		<div>
+			<div>
+				<span class="tag">
+					@esm/moment comes from LPS-143013-test-2:
+				</span> 
+				<span class="value">${getMoment() === moment}</span>
+			</div>
 			<div>
 				<span class="tag">
 					LPS-143013-test-2:
