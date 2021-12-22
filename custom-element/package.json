@@ -1,0 +1,16 @@
+{
+  "name": "custom-element",
+  "version": "1.0.0",
+  "description": "Custom Element",
+  "dependencies": {
+    "@liferay/portal-agnostic": "*",
+    "react": "16.8.6",
+    "react-dom": "16.8.6"
+  },
+  "scripts": {
+    "build": "liferay build",
+    "clean": "liferay clean",
+    "deploy": "liferay deploy"
+  },
+  "devDependencies": {}
+}
