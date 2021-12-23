@@ -10,7 +10,13 @@
   "scripts": {
     "build": "liferay build",
     "clean": "liferay clean",
-    "deploy": "liferay deploy"
+    "deploy": "liferay deploy",
+    "serve": "http-server build -p 8081 --cors"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "http-server": "^14.0.0"
+  },
+  "optionalDependencies": {
+    "@liferay/portal-base": "^1.0.0"
+  }
 }

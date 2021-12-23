@@ -1,25 +1,41 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import AppComponent from './AppComponent';
+import AppComponent from './AppComponent.js';
 
-/**
- * This is the main entry point of the portlet.
- *
- * See https://tinyurl.com/js-ext-portlet-entry-point for the most recent 
- * information on the signature of this function.
- *
- * @param  {Object} params a hash with values of interest to the portlet
- * @return {void}
- */
-export default function main(params) { 
-	 ReactDOM.render(
-		<AppComponent 
-			portletNamespace={params.portletNamespace} 
-			contextPath={params.contextPath}
-			portletElementId={params.portletElementId}
-			configuration={params.configuration}
-		 />, 
-		document.getElementById(params.portletElementId)
-	);
+class VanillaCounter extends HTMLElement {
+	constructor() {
+		super();
+
+		const root = document.createElement('div');
+
+		ReactDOM.render(
+			<AppComponent 
+				portletNamespace="namespace"
+				contextPath="context-path"
+				portletElementId="portlet-element-id"
+				configuration="configuration"
+			 />, 
+			root
+		);
+
+		//this.attachShadow({mode: 'open'}).appendChild(root);
+		this.appendChild(root);
+	}
+
+	connectedCallback() {
+	}
+
+	disconnectedCallback() {
+	}
+
 }
+
+if (customElements.get('custom-element')) {
+	console.log(
+		'Skipping registration for <custom-element> (already registered)'
+	);
+} else {
+	customElements.define('custom-element', VanillaCounter);
+}
+
