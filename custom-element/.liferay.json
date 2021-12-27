@@ -1,5 +1,5 @@
 {
 	"build": {
-		"type": "custom-element"
+		"type": "custom-element-webpack"
 	}
 }
