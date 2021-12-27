@@ -1,9 +1,19 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import tokenizer from 'sbd';
 
 export default function AppComponent(props) {
+	const text = "On Jan. 20, former Sen. Barack Obama became the 44th President of the U.S. Millions attended the Inauguration.";
+	const sentences = tokenizer.sentences(text, {});
+
 	return (
 		<div>
+			<div>
+				<span className="tag">
+					Sentences:
+				</span> 
+				<span className="value">{sentences}</span>
+			</div>
 			<div>
 				<span className="tag">
 					{Liferay.Language.get('portlet-namespace')}:
