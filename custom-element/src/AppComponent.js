@@ -1,13 +1,32 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React, {useState} from 'react';
+import DatePicker from 'react-datepicker';
 import tokenizer from 'sbd';
+
+import 'react-datepicker/dist/react-datepicker.css';
 
 export default function AppComponent(props) {
 	const text = "On Jan. 20, former Sen. Barack Obama became the 44th President of the U.S. Millions attended the Inauguration.";
 	const sentences = tokenizer.sentences(text, {});
+	const [startDate, setStartDate] = useState(new Date());
 
 	return (
 		<div>
+			<div>
+				<span className="tag">
+					Liferay.ThemeDisplay.getUserName():
+				</span>
+				<span className="value">
+					{Liferay.ThemeDisplay.getUserName()}
+				</span>
+			</div>
+			<div>
+				<span className="tag">
+					DatePicker:
+				</span>
+				<span className="value">
+					<DatePicker selected={startDate} onChange={(date) => setStartDate(date)} />
+				</span>
+			</div>
 			<div>
 				<span className="tag">
 					Sentences:

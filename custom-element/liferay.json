@@ -1,0 +1,10 @@
+{
+	"build": {
+		"type": "customElement",
+		"options": {
+			"externals": [
+				"react", "react-dom"
+			]
+		}
+	}
+}

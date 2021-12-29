@@ -5,6 +5,7 @@
   "dependencies": {
     "@liferay/portal-agnostic": "*",
     "react": "16.8.6",
+    "react-datepicker": "^4.5.0",
     "react-dom": "16.8.6",
     "sbd": "^1.0.19"
   },
