@@ -9,14 +9,12 @@
     "react-dom": "16.8.6",
     "sbd": "^1.0.19"
   },
+  "main": "./src/index.js",
   "scripts": {
     "build": "liferay build",
     "clean": "liferay clean",
     "deploy": "liferay deploy",
-    "serve": "http-server build -p 8081 --cors"
-  },
-  "devDependencies": {
-    "http-server": "^14.0.0"
+    "start": "liferay start"
   },
   "optionalDependencies": {
     "@liferay/portal-base": "^1.0.0"
